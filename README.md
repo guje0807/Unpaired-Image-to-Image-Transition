@@ -4,7 +4,7 @@ Development of CycleGan model to implement Unpaired-Image-to-Image Transition fo
 
 
 28th Jan,2023:
--> Paintings_Scrapings.ipynb - Code for Web Scraping Wikiart Website.
-->Folder:
+-> Notebooks/Paintings_Scrapings.ipynb - Code for Web Scraping Wikiart Website.
+->Folder Dataset:
   -> Varma Paintings - Paintings of Raja Ravi Varma
   -> Carr Paintings - Paintings of Emily Carr
